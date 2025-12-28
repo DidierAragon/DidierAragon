@@ -2,7 +2,7 @@
 
 # Estudiente del SENA
 
-Actualmente estoy estudiando Tecnico de programacion software
+Actualmente estoy estudiando Tecnico de programacion software.
 
 ---
 
