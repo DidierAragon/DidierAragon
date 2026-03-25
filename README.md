@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Didier%20Aragón&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20Training%20%7C%20SENA%20🇨🇴&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Didier%20Aragón&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Técnico%20en%20Programación%20de%20Software%20|%20SENA%20🇨🇴&descAlignY=60&descSize=18" />
 
 </div>
 
@@ -9,19 +8,11 @@
 
 ## 👨‍💻 Sobre mí
 
-```python
-class DidierAragon:
-    def __init__(self):
-        self.nombre       = "Didier Aragón"
-        self.rol          = "Técnico en Programación de Software"
-        self.institución  = "SENA 🎓 — Medellín, Colombia"
-        self.intereses    = ["Desarrollo Web", "Backend", "Bases de Datos"]
-        self.actualmente  = "Construyendo proyectos funcionales y aprendiendo cada día"
-        self.contacto     = "aragondidier19@gmail.com"
-
-    def saludo(self):
-        return "¡Bienvenido a mi perfil! 🚀"
-```
+- 🎓 Estudiante de **Técnico en Programación de Software** en el SENA
+- 🌍 Colombia
+- 💡 Apasionado por construir soluciones funcionales y bien estructuradas
+- 🌱 Actualmente aprendiendo desarrollo web y programación orientada a objetos
+- 📫 Contacto: **aragondidier19@gmail.com**
 
 ---
 
@@ -69,17 +60,6 @@ class DidierAragon:
 
 ---
 
-## 🚀 Lo que estoy aprendiendo
-
-```
-🌱 Desarrollo Web Full Stack
-🔍 SQL Avanzado & Modelado de Bases de Datos
-🐍 Python Orientado a Objetos
-📱 Diseño Responsivo con Bootstrap
-```
-
----
-
 ## 🤝 Conéctate conmigo
 
 <div align="center">
@@ -93,8 +73,6 @@ class DidierAragon:
 ---
 
 <div align="center">
-
-### 💬 *"Codigo con lògica, mente curiosa y soluciones que hablan por si solas"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
